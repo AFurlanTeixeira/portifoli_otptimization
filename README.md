@@ -13,3 +13,7 @@ Todos os testes foram feitos utilizando $\alpha$ = 0.05
 E em todos os testes nós Rejeitamos  $H_0$ = nosso portifólio supera IPCA+6.
 
 Os dados uilizados foram tirados diretamente da api do BACEN e do YFinance.
+
+
+Referência: 
+https://portfoliooptimizationbook.com/book/

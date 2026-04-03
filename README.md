@@ -1,19 +1,7 @@
 # portifoli_otptimization
+Aqui se encontram os dados e também, futuramente, os relatórios de um Experimento Experimental Estatístico baseado no Método Taguchi aplicado à otimização de portifólios de investimento (especificamente voltado para ações da Bolsa de Valores Brasileira, B3). 
 
-Aqui estou testando a otimização de portifólio, comparando o método de Markowitz com o Taguchi
-
-Fiz a otimização a partir de Sharpe Ratio e também a partir de Valor Absoluto (considerando volatilidade e risco). 
-
-A intenção desses testes era ver se conseguiríamos encontrar uma carteira otimizada com 4 ativos: BOVA11, CDB, OURO e IVVB11 que superasse o IPCA+6 ao longo do tempo. 
-
-Utilizei dados de jan-2016 até dez-2025 para fazer a análise. Pensando em diferentes cenários (justamente para poder aplicar Taguchi), então meu modelo passou por crises (COVID19), recessões e também períodos de bull market. 
-
-Todos os testes foram feitos utilizando $\alpha$ = 0.05 
-
-E em todos os testes nós Rejeitamos  $H_0$ = nosso portifólio supera IPCA+6.
-
-Os dados uilizados foram tirados diretamente da api do BACEN e do YFinance.
-
+Como base de dados, vou utilizar o Yahoo Finance, através da biblioteca yfinance no Python para trazer séries históricas reais sobre os ativos que farão parte do portifólio
 
 Referência: 
 https://portfoliooptimizationbook.com/book/

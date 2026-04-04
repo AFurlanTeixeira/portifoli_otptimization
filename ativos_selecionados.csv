@@ -1,0 +1,39 @@
+﻿Ticker,Empresa,Setor,Peso_pct,Ticker_limpo
+PETR4.SA,Petrobras S.A. (PN),"Petroleo, gas e biocombustiveis",8.2,PETR4
+VALE3.SA,Vale S.A.,Materiais basicos,7.5,VALE3
+ITUB4.SA,Itau Unibanco S.A. (PN),Financeiro,6.8,ITUB4
+BBDC4.SA,Banco Bradesco S.A. (PN),Financeiro,3.9,BBDC4
+PETR3.SA,Petrobras S.A. (ON),"Petroleo, gas e biocombustiveis",3.8,PETR3
+BBAS3.SA,Banco do Brasil S.A.,Financeiro,3.6,BBAS3
+B3SA3.SA,B3 S.A.,Financeiro,3.2,B3SA3
+WEGE3.SA,WEG S.A.,Bens industriais,3.1,WEGE3
+ABEV3.SA,Ambev S.A.,Consumo nao ciclico,2.8,ABEV3
+RENT3.SA,Localiza S.A.,Consumo ciclico,2.5,RENT3
+PRIO3.SA,PRIO S.A.,"Petroleo, gas e biocombustiveis",2.3,PRIO3
+SUZB3.SA,Suzano S.A.,Materiais basicos,2.2,SUZB3
+EQTL3.SA,Equatorial Energia S.A.,Utilidade publica,2.1,EQTL3
+RADL3.SA,Raia Drogasil S.A.,Saude,1.8,RADL3
+BPAC11.SA,BTG Pactual S.A.,Financeiro,1.7,BPAC11
+LREN3.SA,Lojas Renner S.A.,Consumo ciclico,1.6,LREN3
+GGBR4.SA,Gerdau S.A. (PN),Materiais basicos,1.5,GGBR4
+CSNA3.SA,Cia. Siderurgica Nacional,Materiais basicos,1.4,CSNA3
+CMIG4.SA,CEMIG S.A. (PN),Utilidade publica,1.2,CMIG4
+SBSP3.SA,Sabesp S.A.,Utilidade publica,1.1,SBSP3
+RAIL3.SA,Rumo S.A.,Bens industriais,0.9,RAIL3
+UGPA3.SA,Ultrapar Participacoes S.A.,"Petroleo, gas e biocombustiveis",0.85,UGPA3
+KLBN11.SA,Klabin S.A.,Materiais basicos,0.8,KLBN11
+BBSE3.SA,BB Seguridade Participacoes S.A.,Financeiro,0.75,BBSE3
+ENEV3.SA,Eneva S.A.,Utilidade publica,0.7,ENEV3
+CSAN3.SA,Cosan S.A.,"Petroleo, gas e biocombustiveis",0.65,CSAN3
+BRKM5.SA,Braskem S.A.,Materiais basicos,0.6,BRKM5
+HAPV3.SA,Hapvida S.A.,Saude,0.5,HAPV3
+HYPE3.SA,Hypera Pharma S.A.,Saude,0.45,HYPE3
+VBBR3.SA,Vibra Energia S.A.,"Petroleo, gas e biocombustiveis",0.4,VBBR3
+MULT3.SA,Multiplan S.A.,Financeiro,0.4,MULT3
+GOAU4.SA,Metalurgica Gerdau S.A.,Materiais basicos,0.3,GOAU4
+MGLU3.SA,Magazine Luiza S.A.,Consumo ciclico,0.25,MGLU3
+YDUQ3.SA,Yduqs S.A.,Consumo ciclico,0.2,YDUQ3
+COGN3.SA,Cogna Educacao S.A.,Consumo ciclico,0.2,COGN3
+IRBR3.SA,IRB Brasil RE S.A.,Financeiro,0.2,IRBR3
+BEEF3.SA,Minerva Foods S.A.,Consumo nao ciclico,0.18,BEEF3
+SMTO3.SA,Sao Martinho S.A.,Consumo nao ciclico,0.15,SMTO3

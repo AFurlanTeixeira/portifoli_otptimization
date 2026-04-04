@@ -1,0 +1,5 @@
+﻿Etapa,Acoes_entrada,Eliminadas,Acoes_restantes,Setores
+C1 - Carteira Ibovespa,50,0,50,10
+C2 - Dados completos,50,10,40,10
+C3 - Diversif. setorial,40,2,38,8
+RESULTADO FINAL,38,12,38,8
